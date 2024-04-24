@@ -1,7 +1,7 @@
 English | [简体中文](./README.zh-CN.md)
 # 🛫Flutter Travel App Concept [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Flutter representation of a Travel App Concept i found in Uplabs. 
+Flutter representation of a Travel App Concept I found in Uplabs. 
 **It only consists of 2 screens.**
 
 Star⭐ the repo if you like what you see😉.
