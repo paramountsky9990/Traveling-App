@@ -30,10 +30,6 @@ The App's theme adapts to your device's theme
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-## 🤓 Author(s)
-**Olusegun Festus Babajide** [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
